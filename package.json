@@ -1,0 +1,25 @@
+{
+  "name": "rocket-shop",
+  "version": "1.0.0",
+  "description": "A crowd-sourced subscription tool",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "keywords": [
+    "rocket",
+    "shop"
+  ],
+  "author": "Benjamin Huang",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.5.0",
+    "sinon": "^3.1.0"
+  },
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}
