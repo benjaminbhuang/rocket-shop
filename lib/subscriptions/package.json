@@ -1,0 +1,11 @@
+{
+  "name": "subscriptions",
+  "version": "1.0.0",
+  "description": "the subscription module for Rocket Shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Benjamin Huang",
+  "license": "MIT"
+}
